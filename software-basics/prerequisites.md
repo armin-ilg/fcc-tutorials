@@ -80,7 +80,7 @@ command when you login to lxplus.
 ### Using a virtual machine through VirtualBox
 
 The CernVM project provides a convenient tool to start VMs, [cernvm-launch](https://cernvm.cern.ch/portal/launch), and a [public repository](https://github.com/cernvm/public-contexts) of contexts to be used with `cernvm-launch` to configure the VM at your needs. The tool `cernvm-launch` is available for Linux, Mac and Windows.
-A context dedicated to the FCC tutorials is available in the repository. The [cernvm-launch](https://cernvm.cern.ch/portal/launch) works with [VirtualBox](https://www.virtualbox.org/), virtualization manager available for free for all platforms.
+A context dedicated to the FCC tutorials is available in the repository. The [cernvm-launch](https://cernvm.cern.ch/portal/launch) works with [VirtualBox](https://www.virtualbox.org/), virtualization manager available for free for all platforms (Mac with M1/M2 processors not supported yet though).
 
 If you have a CERN account, this is a convenient way to enable access to the EOS storage system.
 
