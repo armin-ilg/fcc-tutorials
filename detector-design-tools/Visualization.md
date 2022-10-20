@@ -285,7 +285,7 @@ git clone git@github.com:HSF/root_cern-To_gltf-Exporter.git
 cd root_cern-To_gltf-Exporter
 ```
 
-then, we create new file `fccee_lar_conversion.hml` and use, for example, the
+then, we create new file `fccee_lar_conversion.html` and use, for example, the
 following configuration for the FCCee Noble Liquid Calorimeter:
 ```html
 <html>
